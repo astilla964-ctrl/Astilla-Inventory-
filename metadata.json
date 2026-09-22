@@ -1,0 +1,6 @@
+{
+  "name": "POS & Inventory",
+  "description": "Local-first POS and inventory system with real-time sales reporting, automated low-stock alerts, camera barcode scanner, historical trends dashboard, and Google Sheets backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
